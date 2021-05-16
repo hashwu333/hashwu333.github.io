@@ -1,6 +1,10 @@
 banner:
   enable: true
-  title: HASHWU的小站
+  title:
+    - HASH
+    - WU
+    - 的
+    - 小站
   src: /js/ui/banner.js
   border: true
   cloud:
