@@ -13,3 +13,14 @@ banner:
   go_down:
     enable: true
     icon: icon-arrow-down-s-line
+
+avatar:
+  enable: true
+  url: https://ftp.bmp.ovh/imgs/2021/05/df37b1716aec3755.jpg
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 😭
+    message: 不想上学
