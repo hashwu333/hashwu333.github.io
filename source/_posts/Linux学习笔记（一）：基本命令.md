@@ -6,7 +6,7 @@ tags:
   - Ubuntu
   - C
   - 笔记
-catagories:
+categories:
   - 技术力小本本
 ---
 # Linux学习笔记（一）：基本命令
