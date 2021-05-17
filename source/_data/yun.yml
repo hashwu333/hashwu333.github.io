@@ -24,3 +24,30 @@ avatar:
     enable: true
     emoji: 😭
     message: 不想上学
+
+title: HashWu的小站
+subtitle: ''
+description: ''
+keywords:
+author: Hash Wu
+language: en
+timezone: ''
+
+reward:
+  enable: true
+  icon: icon-hand-coin-line
+  comment: I'm so cute. Please give me money.
+  # url: https://github.com/YunYouJun/yunyoujun.github.io/issues/96
+  methods:
+    - name: 支付宝
+      path: https://cdn.jsdelivr.net/gh/hashwu333/cdn@main/1.jpg
+      color: "#00A3EE"
+      icon: icon-alipay-line
+    - name: QQ 支付
+      path: https://cdn.jsdelivr.net/gh/hashwu333/cdn@main/3.jpg
+      color: "#12B7F5"
+      icon: icon-qq-line
+    - name: 微信支付
+      path: https://cdn.jsdelivr.net/gh/hashwu333/cdn@main/2.jpg
+      color: "#2DC100"
+      icon: icon-wechat-pay-line
