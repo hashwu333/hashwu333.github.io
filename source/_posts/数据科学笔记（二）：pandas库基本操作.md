@@ -1,6 +1,6 @@
 ---
 title: 数据科学笔记（二）：pandas库基本操作
-date: 2021-06-07 18:57:49
+date: 2021-06-07 19:10:41
 tags:
   - 数据科学
   - python
@@ -273,3 +273,6 @@ data.to_csv('student.csv')
 file = pd.ExcelFile('xxxx.xlsx')
 data = file.parse('student') #参数为表里sheet名称
 ~~~
+
+
+
