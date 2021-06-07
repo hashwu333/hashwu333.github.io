@@ -67,19 +67,19 @@ data = np.array([1,2,3,4,5])
 
 ~~~python
 np.array([[1,2,3],[4,5,6]])
-
+~~~
 判断ndarray的维度：
 
-~~~
+~~~python
 data = np.array([[1,2,3],[4,5,6]])
 print(data.ndim)
 ~~~
 
+
 返回值为2，该数组维度为2。
 
 了解ndarray各维度的长度：
-
-​~~~python
+~~~
 data = np.array([[1,2,3],[4,5,6]])
 print(data.shape)
 ~~~
