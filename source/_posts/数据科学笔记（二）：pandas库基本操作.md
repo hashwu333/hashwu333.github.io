@@ -10,13 +10,13 @@ categories:
   - 技术力小本本
 ---
 
-### 1.数据结构
+### 数据结构
 
 分为Series 与 DataFrame。
 
 series为索引加数据，真正的数据只有一列。多个series结合即为dataframe。
 
-### 2.基础类型series
+### 基础类型series
 
 #### 创建Series
 
@@ -122,7 +122,7 @@ data.name = 'xxxx'
 data.index.name = 'xxx'
 ~~~
 
-### 2.基础类型DataFrame
+### 基础类型DataFrame
 
 #### 创建
 
@@ -239,7 +239,7 @@ print(pd.merge(data1,data2,on='key'))
 print(pd.merge(data1,data2,left_on='lkey',right_on='rkey'))
 ~~~
 
-### 3.文件交互
+### 文件交互
 
 #### 文件存取
 
